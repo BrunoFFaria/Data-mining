@@ -11,7 +11,7 @@ var1 | var2 | class
 *...* | *...* | **...**
 *dummy observation n* | *dummy observation n* | **dummy category 1**
 
-The default values of the demo are known typically to work, owever, you can play with them. As a side note, I should point out that while the demo can easily handle 1000 samples with 12 features, taking less than 1 minute, I don't know how it will behave for bigger datasets as only a single core is used for model calculation.
+The default values of the demo are known to typically work, however, you can play with them. As a side note, I should point out that while the demo can easily handle 1000 samples with 12 features, taking less than 1 minute, I don't know how it will behave for bigger datasets as only a single core is used for model calculation.
 
 On the other hand if you came here to inspect the code, follow svm.js and rf.js. The remaining files are only support for these two. Finally, I distribute this code under a BSD License so if you use any of this code please give me some credit. :)
 
