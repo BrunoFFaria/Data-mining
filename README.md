@@ -8,7 +8,8 @@ var1 | var2 | class
 --- | --- | ---
 *dummy observation 1* | *dummy observation 1* | **dummy category 1**
 *dummy observation 2* | *dummy observation 2* | **dummy category 2**
-1 | 2 | 3
+*...* | *...* | **...**
+*dummy observation n* | *dummy observation n* | **dummy category 1**
 
 
 
