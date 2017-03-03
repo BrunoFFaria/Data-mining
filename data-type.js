@@ -1,5 +1,5 @@
 /**
- * Created by shade on 09/08/2016.
+ * Created by Bruno Faria on 09/08/2016.
  */
 
 /* declare default data.table methods */
